@@ -1,0 +1,17 @@
+RewriteEngine on 
+
+RewriteRule ^inicio$  		index.php 
+RewriteRule ^dashboard$  	index.php?c=user&a=index
+RewriteRule ^cerrar$  		index.php?c=user&a=logout
+RewriteRule ^paciente$      index.php?c=user&a=paciente
+RewriteRule ^medico$        index.php?c=user&a=medico
+RewriteRule ^cuenta$        index.php?c=user&a=cuenta
+RewriteRule ^create$        index.php?c=user&a=create
+RewriteRule ^update$        index.php?c=user&a=update
+RewriteRule ^createM$       index.php?c=user&a=createM
+RewriteRule ^createC$       index.php?c=user&a=createC
+RewriteRule ^updateM$       index.php?c=user&a=updateM
+RewriteRule ^updateC$       index.php?c=user&a=updateC
+
+
+ 
