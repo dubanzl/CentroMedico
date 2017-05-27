@@ -4,24 +4,16 @@
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
-              </div>
-              <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
-                <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
-                </ul>
+                <h5 class="white-text">Centro Medico</h5>
+                <p class="grey-text text-lighten-4">¡Al cole con alegría!
+				Con la llegada del mes de septiembre comienza la vuelta al cole, momento para que los niños se reencuentren con los amigos o para tener su primer contacto con el mundo escolar. Te ofrecemos unos consejos para hacer esta vuelta más llevadera y menos traumática</p>
               </div>
             </div>
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2014 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            © 2017 Copyright 
+            <a class="grey-text text-lighten-4 right" href="https://github.com/duvanCode/CentroMedico" target="_blank">Repositorio Githud</a>
             </div>
           </div>
         </footer>

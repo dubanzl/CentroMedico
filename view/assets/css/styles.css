@@ -1,6 +1,6 @@
 
 div.carousel{
-	height: 600px !important;
+	height: 500px !important;
 }
 .mn{
 	height: 100%;
@@ -49,4 +49,28 @@ label {
 	text-align: center ;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 
+}
+
+.page-footer {
+    padding-top: 20px;
+    background-color:#3b3b3b !important;
+}
+
+
+.amber {
+	background-image: url( ../img/sorrindo-casal-deitado-no-gramado-com-sua-filha_1139-618.jpg);
+	background-size: cover; 
+    background-color: none !important;
+}
+
+.green {
+   background-image: url( ../img/mae-e-avo-com-presentes_1098-791.jpg);
+	background-size: cover; 
+    background-color: none !important;
+}
+
+.blue {
+  background-image: url( ../img/elementar-casa-infancia-femininas-dental_1301-3162.jpg);
+	background-size: cover; 
+    background-color: none !important;
 }

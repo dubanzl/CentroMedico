@@ -1,6 +1,6 @@
 <?php
 
-	session_start();
+  session_start();
   require_once "model/conn.model.php" ;
 
   if(isset($_REQUEST['c'])){
